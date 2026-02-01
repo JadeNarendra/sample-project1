@@ -1,4 +1,5 @@
 this is my secod file for repo
+this line is added by the branch2   
 added this line by branch1
 
 after adding these
