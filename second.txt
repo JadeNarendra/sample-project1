@@ -1,2 +1,16 @@
 this is my secod file for repo
 this line is added by the branch2   
+added this line by branch1
+
+after adding these
+
+
+Class four{
+public static void main(String[] args){
+
+int a=10;
+int b=20;
+int c=a+b;
+System.out.println(c);
+}
+}
