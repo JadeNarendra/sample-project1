@@ -1,4 +1,6 @@
 this is my secod file for repo
+this line is added by the branch2   
+added this line by branch1
 
 after adding these
 
@@ -16,3 +18,4 @@ System.out.println(c);
 
 
 this is final modification by the "devloper3"
+oh  well done!!! nice code.....
